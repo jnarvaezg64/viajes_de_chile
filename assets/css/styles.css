@@ -1,0 +1,66 @@
+body{
+    background-color: black;
+    color: #ffffff;
+}
+.navbar{
+    font-family: 'Raleway', sans-serif;
+    color: #ffffff;
+    font-size: 30px;
+}
+.nav-link{
+    font-size: 20px;
+    font-family: 'Raleway', sans-serif;
+    color: #ffffff !important; 
+}
+.bg-dark{
+   background-color: #0dcaf0 !important; 
+    position: fixed;
+    z-index: 10;
+    width: 100%;
+} 
+.fa-brands{
+    color: #ffffff ;
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+h2{
+    font-family: Arial;
+    color: #626262;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.modal-body .text1 p{
+    color: gray;
+    text-align: justify;
+}
+.modal-body p{
+    color: black;
+    text-align: center;
+}
+.modal-body .row{
+    margin-top: 10px;
+}
+.modal-body #img{
+    height: 50px;
+    width: 50px;
+    text-align: center;
+}
+.modal-body #img1{
+    height: 80px;
+    width: 80px;
+    text-align: center;
+}
+.modal-body #img2{
+
+    max-width: 200px;
+    text-align: center;
+}
+ul{
+    color: gray;
+}
+.btn{
+    color: #ffffff;
+}
